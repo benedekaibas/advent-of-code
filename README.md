@@ -1,23 +1,20 @@
-# 🎄 Advent of Code 2024 - C++ Solutions 🎄
+# 🎄 Advent of Code 2025 - C++ Solutions 🎄
 
 ![Language](https://img.shields.io/badge/language-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![AoC](https://img.shields.io/badge/Advent%20of%20Code-2024-FFD700?style=for-the-badge&logo=adventofcode&logoColor=white)
+![AoC](https://img.shields.io/badge/Advent%20of%20Code-2025-FFD700?style=for-the-badge&logo=adventofcode&logoColor=white)
 ![Stars](https://img.shields.io/badge/stars-%E2%AD%90%200-yellow?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-Welcome to my repository for [Advent of Code 2024](https://adventofcode.com/2024)! I am using this event to sharpen my C++ skills and explore algorithms.
+Welcome to my repository for [Advent of Code 2025](https://adventofcode.com/)! I am using this event to sharpen my C++ skills and explore algorithms.
 
 ## 📂 Project Structure
 
 The repository is structured as follows:
 
 ```text
-├── inputs/         # Puzzle inputs (ignored by git)
 ├── src/            # Source code for solutions
 │   ├── day01.cpp
 │   ├── day02.cpp
 │   └── ...
-├── include/        # Shared header files (utils, parsing, etc.)
 ├── CMakeLists.txt  # Build configuration
 └── README.md
 ```
