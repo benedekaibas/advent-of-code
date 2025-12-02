@@ -1,8 +1,12 @@
 # 🎄 Advent of Code 2025 - C++ Solutions 🎄
 
-![Language](https://img.shields.io/badge/language-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![AoC](https://img.shields.io/badge/Advent%20of%20Code-2025-FFD700?style=for-the-badge&logo=adventofcode&logoColor=white)
-![Stars](https://img.shields.io/badge/stars-%E2%AD%90%200-yellow?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/language-C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="Language">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Advent%20of%20Code-2025-FFD700?style=for-the-badge&logo=adventofcode&logoColor=white" alt="AoC">
+  &nbsp;
+  <img src="https://img.shields.io/badge/stars-%E2%AD%90%200-yellow?style=for-the-badge" alt="Stars">
+</p>
 
 Welcome to my repository for [Advent of Code 2025](https://adventofcode.com/)! I am using this event to sharpen my C++ skills and explore algorithms.
 
