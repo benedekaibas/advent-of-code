@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <chrono>
 
 void GuessPassword() {
   int pos = 50;
@@ -31,9 +32,14 @@ void GuessPassword() {
       count++;
     }
   }
-  std::cout << "Result: " << count;
+  std::cout << "Result: " << count << "\n";
 }
 
 int main() {
+  const auto begin{std::chrono::steady_clock::now()};
   GuessPassword();
+  const auto end{std::chrono::steady_clock::now()};
+
+  const std::chrono::duration<double> time{end - begin};
+  std::cout << time.count() << "\n";
 }
