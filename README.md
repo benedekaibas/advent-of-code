@@ -21,15 +21,14 @@ The repository is structured as follows:
 
 ## 🚀 Progress
 
-| Day | Puzzle Name | Part 1 | Part 2 | Solution | Source |
-| :---: | :--- | :---: | :---: | :---: | :---: |
-| 01 | Historian Hysteria | ⭐ | ⭐ | [View Output](output/day01.txt) | [day01.cpp](src/day01.cpp) |
-| 02 | Red-Nosed Reports | ⭐ | - | - | [day02.cpp](src/day02.cpp) |
-| 03 | Mull It Over | - | - | - | - |
-| 04 | Ceres Search | - | - | - | - |
-| 05 | Print Queue | - | - | - | - |
-| 06 | Guard Gallivant | - | - | - | - |
-| 07 | Bridge Repair | - | - | - | - |
+| Day | Puzzle Name | Stars | Solution | Source |
+| :---: | :--- | :---: | :---: | :---: |
+| 01 | Secret Entrance | ⭐⭐ | [View Output](output/day01.txt) | [day01.cpp](src/day01.cpp) |
+| 02 | Red-Nosed Reports | ⭐ | - | [day02.cpp](src/day02.cpp) |
+| 03 | Mull It Over | - | - | - |
+| 04 | Ceres Search | - | - | - |
+| 05 | Print Queue | - | - | - |
+| 06 | Guard Gallivant | - | - | - |
 
 ## 🛠️ Building & Running
 
