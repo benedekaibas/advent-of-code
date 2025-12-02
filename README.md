@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/stars-%E2%AD%90%200-yellow?style=for-the-badge" alt="Stars">
 </p>
 
+![Advent Of Code 2025](background/aoc25.png)
+
 Welcome to my repository for [Advent of Code 2025](https://adventofcode.com/)! I am using this event to sharpen my C++ skills and explore algorithms.
 
 ## 📂 Project Structure
